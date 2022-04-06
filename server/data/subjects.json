@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Introduction to Computing",
+    "_id": "CMP-100",
+    "creditHours": 3
+  },
+  {
+    "title": "Electricity and Magnetism",
+    "_id": "NS-103",
+    "creditHours": 3
+  },
+  {
+    "title": "Calculus-I",
+    "_id": "MA-101",
+    "creditHours": 3
+  },
+  {
+    "title": "Writing Workshop",
+    "_id": "EN-101",
+    "creditHours": 3
+  },
+  {
+    "title": "Probability & Statistics",
+    "_id": "MA-120",
+    "creditHours": 3
+  },
+  {
+    "title": "Digital Logic Design Lab",
+    "_id": "CMP-121",
+    "creditHours": 1
+  },
+  {
+    "title": "Digital Logic Design",
+    "_id": "CMP-120",
+    "creditHours": 3
+  },
+  {
+    "title": "Calculus-II",
+    "_id": "MA-102",
+    "creditHours": 3
+  },
+  {
+    "title": "Basic Electronics",
+    "_id": "NS-105",
+    "creditHours": 3
+  },
+  {
+    "title": "Linear Algebra",
+    "_id": "MA-110",
+    "creditHours": 3
+  },
+  {
+    "title": "Programming Fundamentals",
+    "_id": "CMP-140",
+    "creditHours": 3
+  },
+  {
+    "title": "Programming Fundamentals Lab",
+    "_id": "CMP-141",
+    "creditHours": 1
+  },
+  {
+    "title": "Discrete Mathematics",
+    "_id": "CMP-201",
+    "creditHours": 3
+  },
+  {
+    "title": "Computer Organization & Assembly Language Lab",
+    "_id": "CMP-224",
+    "creditHours": 1
+  },
+  {
+    "title": "Computer Organization & Assembly Language",
+    "_id": "CMP-223",
+    "creditHours": 3
+  },
+  {
+    "title": "Principles of Management",
+    "_id": "CS-475",
+    "creditHours": 3
+  },
+  {
+    "title": "Professional Ethics",
+    "_id": "HM-240",
+    "creditHours": 2
+  },
+  {
+    "title": "Object Oriented Programming",
+    "_id": "CMP-142",
+    "creditHours": 3
+  },
+  {
+    "title": "Object Oriented Programming Lab",
+    "_id": "CMP-143",
+    "creditHours": 1
+  },
+  {
+    "title": "Theory of Automata & Formal Languages",
+    "_id": "CS-211",
+    "creditHours": 3
+  },
+  {
+    "title": "Database Systems Lab",
+    "_id": "CMP-271",
+    "creditHours": 1
+  },
+  {
+    "title": "Database Systems",
+    "_id": "CMP-270",
+    "creditHours": 3
+  },
+  {
+    "title": "Data Structures and Algorithms",
+    "_id": "CMP-210",
+    "creditHours": 3
+  },
+  {
+    "title": "Software Engineering",
+    "_id": "CS-290",
+    "creditHours": 3
+  },
+  {
+    "title": "Data Structures and Algorithms Lab",
+    "_id": "CMP-211",
+    "creditHours": 1
+  },
+  {
+    "title": "Communication Skills",
+    "_id": "EN-212",
+    "creditHours": 3
+  },
+  {
+    "title": "Islamic Studies and Pakistan Studies",
+    "_id": "HM-210",
+    "creditHours": 3
+  },
+  {
+    "title": "Operating Systems",
+    "_id": "CMP-235",
+    "creditHours": 3
+  },
+  {
+    "title": "Introduction of Economics",
+    "_id": "SS-301",
+    "creditHours": 3
+  },
+  {
+    "title": "Technical and Business Writing",
+    "_id": "EN-305",
+    "creditHours": 3
+  },
+  {
+    "title": "Object Oriented Analysis & Design",
+    "_id": "CS-291",
+    "creditHours": 3
+  },
+  {
+    "title": "Enterprise Application Development",
+    "_id": "CS-442",
+    "creditHours": 3
+  },
+  {
+    "title": "Analysis of Algorithms",
+    "_id": "CS-312",
+    "creditHours": 3
+  },
+  {
+    "title": "Artificial Intelligence",
+    "_id": "CS-360",
+    "creditHours": 3
+  },
+  {
+    "title": "Computer Networks Lab",
+    "_id": "CMP-331",
+    "creditHours": 1
+  },
+  {
+    "title": "Computer Networks",
+    "_id": "CMP-330",
+    "creditHours": 3
+  },
+  {
+    "title": "Web Engineering Lab",
+    "_id": "CS-341",
+    "creditHours": 1
+  },
+  {
+    "title": "Web Engineering",
+    "_id": "CS-340",
+    "creditHours": 3
+  },
+  {
+    "title": "Compiler Construction",
+    "_id": "CS-342",
+    "creditHours": 3
+  },
+  {
+    "title": "Computer VisioN",
+    "_id": "CS-492",
+    "creditHours": 3
+  },
+  {
+    "title": "Mobile Computing",
+    "_id": "XYZ-000",
+    "creditHours": 3
+  },
+  {
+    "title": "Computer Architecture",
+    "_id": "XYZ-000",
+    "creditHours": 3
+  },
+  {
+    "title": "Systems Programming",
+    "_id": "XYZ-000",
+    "creditHours": 3
+  },
+  {
+    "title": "Project Management",
+    "_id": "XYZ-000",
+    "creditHours": 3
+  }
+]

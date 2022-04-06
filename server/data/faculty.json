@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Abdul Mateen",
+    "dob": "01-01-1999",
+    "classes": [
+      { "name": "BS(IT) Fall 2019 Morning AN", "course": "CMP-235" },
+
+      { "name": "BS(IT) Fall 2019 Morning AN", "course": "CMP-235" }
+    ],
+    "fatherName": "Mateen Khan",
+    "gender": "male",
+    "email": "amateen",
+    "address1": "100 street, block A, Lahore",
+    "address2": "",
+    "zipCode": 54000,
+    "city": "Lahore",
+    "country": "Pakistan"
+  }
+]

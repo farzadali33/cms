@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Mudassar Iqbal",
+    "rollNumber": "bcsf18m502",
+    "registrationNumber": "2000_UCS_000",
+    "dob": "01-01-1999",
+    "_class": "csf18m",
+    "fatherName": "Iqbal",
+    "gender": "male",
+    "email": "bcsf18m502",
+    "address1": "100 street, block A, Sialkot",
+    "address2": "",
+    "zipCode": 51040,
+    "city": "Sialkot",
+    "country": "Pakistan",
+    "semester": 7,
+    "session": "2018-2022",
+    "currentSemesterSubjects": ["CMP-100", "NS-103"],
+    "currentSemesterSubjectsInfo": [
+      {
+        "subject": "CMP-100",
+        "mid": 0,
+        "final": 0,
+        "sessional": { "Quiz 1": 0 },
+        "totalMarks": 0,
+        "grade": "Z",
+        "instructor": "Abdul Mateen"
+      },
+      {
+        "subject": "NS-103",
+        "mid": 0,
+        "final": 0,
+        "sessional": { "Quiz 1": 0 },
+        "totalMarks": 0,
+        "grade": "Z",
+        "instructor": "Abdul Mateen"
+      }
+    ],
+    "transcript": {
+      "semester1": {
+        "CMP-100": 3.3
+      },
+      "semester2": {
+        "NS-103": 3.7
+      }
+    }
+  }
+]
